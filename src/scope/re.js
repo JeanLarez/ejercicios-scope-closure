@@ -11,7 +11,7 @@ var secondName = "Ana"; // reasignado
 console.log(secondName);
 
 // Let
-let fruit = "Apple"; // declara y asignar
+// let fruit = "Apple"; // declara y asignar
 fruit = "Kiwi"; // reasignar
 console.log(fruit);
 
@@ -21,7 +21,7 @@ console.log(fruit);
 // const
 const animal = "dog"; // declara y asigna
 // animal = 'cat'; // reasignado
-const animal = "Snake";
+// const animal = "Snake";
 console.log(animal);
 
 const vehicles = [];
